@@ -1,0 +1,41 @@
+{
+  "hero": {
+    "eyebrow": "Centre de Protecció Internacional · Berga, el Berguedà",
+    "titleLine1": "El CPI de Berga",
+    "titleLine2": "no es tanca.",
+    "subhead": "Creu Roja ha plantejat tancar el centre d'acollida de persones refugiades de Berga. Deu anys després d'obrir les portes, i amb prop de mil vides acompanyades, exigim que es reverteixi la decisió."
+  },
+  "stats": [
+    {"num": "10", "label": "anys d'acollida a Berga"},
+    {"num": "~1.000", "label": "persones ateses des de l'obertura"},
+    {"num": "5+", "label": "països d'origen: Síria, Ucraïna, l'Afganistan, Mali, Somàlia..."}
+  ],
+  "context": {
+    "p1": "El Centre de Protecció Internacional (CPI) de Berga porta deu anys —des de finals de 2016— oferint allotjament i acompanyament a persones sol·licitants de protecció internacional a l'Alberg Joan Amades de Berga, gestionat per Creu Roja del Berguedà. Des de llavors hi han passat prop de mil persones provinents de zones de conflicte com Síria, Ucraïna, l'Afganistan, Mali o Somàlia.",
+    "p2": "Creu Roja ha plantejat el tancament del centre, motivat —segons s'ha explicat— per la reducció de places finançades pel Ministeri d'Inclusió, Seguretat Social i Migracions. La data de tancament confirmada és el 31/12/2026, actualitzarem aquesta pàgina tan bon punt en sapiguem més.",
+    "p3": "L'exdiputat berguedà Joan Roma i Cunill ha qualificat la tasca feta al CPI d\"espectacular, en qualitat i en quantitat\", i ha demanat a Creu Roja que reconsideri la decisió, ja que —afirma— el personal, els recursos i el compromís per seguir-hi treballant continuen intactes.",
+    "note": "Aquesta informació s'anirà actualitzant a mesura que en sapiguem més. Si formes part de l'equip del CPI o tens dades més precises (dates, xifres, decisions oficials), fes-nos-les arribar."
+  },
+  "manifest": {
+    "intro": "Nosaltres, veïnes i veïns del Berguedà, entitats i persones a títol individual, ens oposem al tancament del Centre de Protecció Internacional de Berga i exigim:",
+    "demands": [
+      "Que Creu Roja reverteixi la decisió de tancar el CPI de Berga i en garanteixi la continuïtat.",
+      "Que el Ministeri d'Inclusió, Seguretat Social i Migracions mantingui i ampliï les places d'acollida finançades a la comarca.",
+      "Que es garanteixin els llocs de treball i les condicions laborals de l'equip que ha fet possible deu anys d'acollida.",
+      "Que qualsevol decisió sobre el futur del centre es prengui amb transparència i amb la participació de l'Ajuntament de Berga, les entitats socials del territori i la ciutadania."
+    ],
+    "close": "Berga és, des de fa deu anys, una comarca que acull. No estem disposades a deixar de ser-ho."
+  },
+  "sign": {
+    "eyebrow": "Suma la teva veu",
+    "copy": "Cada firma compta per demostrar que el Berguedà no vol tancar les portes. Trigaràs menys d'un minut.",
+    "privacy": "No compartirem les teves dades amb ningú aliè a la plataforma."
+  },
+  "help": {
+    "text": "Signa el manifest i comparteix-lo amb la teva xarxa: com més firmes, més força té la reivindicació. Comparteix aquesta pàgina a les xarxes socials i explica el cas a qui no en sàpiga res. Si formes part d'una entitat del Berguedà, escriu-nos per sumar-la a la plataforma. I si tens informació, fotografies o vídeos sobre el CPI, fes-los-hi arribar a l'equip organitzador."
+  },
+  "signatureUrl": "",
+  "signatureCount": null,
+  "contact": {"email": "", "instagram": "", "telegram": ""},
+  "updatedAt": "10.09.2026"
+}
