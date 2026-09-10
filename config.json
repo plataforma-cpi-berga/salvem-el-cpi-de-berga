@@ -34,7 +34,7 @@
   "help": {
     "text": "Signa el manifest i comparteix-lo amb la teva xarxa: com més firmes, més força té la reivindicació. Comparteix aquesta pàgina a les xarxes socials i explica el cas a qui no en sàpiga res. Si formes part d'una entitat del Berguedà, escriu-nos per sumar-la a la plataforma. I si tens informació, fotografies o vídeos sobre el CPI, fes-los-hi arribar a l'equip organitzador."
   },
-  "signatureUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdgIJLMCsf2_zOOHlASm8O1vHLyKXvl1nIhBUoqJOMLgDngwA/viewform?usp=header",
+  "signatureUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdgIJLMCsf2_zOOHlASm8O1vHLyKXvl1nIhBUoqJOMLgDngwA/viewform?usp=publish-editor",
   "signatureCount": null,
   "contact": {"email": "", "instagram": "", "telegram": ""},
   "updatedAt": "10.09.2026"
