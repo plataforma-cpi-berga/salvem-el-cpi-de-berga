@@ -429,6 +429,24 @@
     var config = results[0], news = results[1], videos = results[2];
     var state = Object.assign({}, config, { news: news, videos: videos });
     render(state);
+
+    /* Recompte automàtic de firmes (opcional): si "signatureCountUrl" té un
+       enllaç a un full de Google publicat a la web en format CSV amb només
+       el número de respostes, l'anem a buscar i actualitzem la xifra sense
+       haver de tocar mai més "signatureCount" a mà. Si no hi ha enllaç, o
+       si falla, es queda amb el número fix del config.json (o sense xifra). */
+    if (state.signatureCountUrl) {
+      fetch(state.signatureCountUrl)
+        .then(function(r){ return r.text(); })
+        .then(function(text){
+          var n = parseInt(String(text).replace(/[^\d]/g, ''), 10);
+          if (!isNaN(n)) {
+            state.signatureCount = n;
+            document.getElementById('statsInner').innerHTML = statsHTML(state);
+          }
+        })
+        .catch(function(err){ console.error('No s\'ha pogut actualitzar el recompte de firmes:', err); });
+    }
   }).catch(function(err){
     console.error('Error carregant el contingut:', err);
     var el = document.getElementById('newsList');
