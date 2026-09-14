@@ -383,13 +383,22 @@
         + '<a class="video-link" href="' + esc(v.link) + '" target="_blank" rel="noopener">Veure el vídeo ↗</a>'
         + '</div></li>';
     }).join('');
+    
+    function socialRow(label, val){
+    if (!val) return '';
+    var isUrl = /^https?:\/\//i.test(val);
+    var display = isUrl ? val.replace(/^https?:\/\/(www\.)?/i, '').replace(/\/$/, '') : val;
+    var inner = isUrl
+      ? '<a href="' + esc(val) + '" target="_blank" rel="noopener">' + esc(display) + ' ↗</a>'
+      : esc(val);
+    return '<dt>' + label + '</dt><dd>' + inner + '</dd>';
   }
   function contactHTML(state){
     var c = state.contact || {};
     var rows = '';
     if (c.email) rows += '<dt>Correu</dt><dd><a href="mailto:' + esc(c.email) + '">' + esc(c.email) + '</a></dd>';
-    if (c.instagram) rows += '<dt>Instagram</dt><dd>' + esc(c.instagram) + '</dd>';
-    if (c.telegram) rows += '<dt>Telegram</dt><dd>' + esc(c.telegram) + '</dd>';
+    rows += socialRow('Instagram', c.instagram);
+    rows += socialRow('Telegram', c.telegram);
     if (!rows) rows = '<dt>Contacte</dt><dd>Aviat hi afegirem un correu i xarxes socials de contacte.</dd>';
     return rows;
   }
