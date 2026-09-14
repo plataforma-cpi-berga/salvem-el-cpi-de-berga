@@ -383,8 +383,8 @@
         + '<a class="video-link" href="' + esc(v.link) + '" target="_blank" rel="noopener">Veure el vídeo ↗</a>'
         + '</div></li>';
     }).join('');
-    
-    function socialRow(label, val){
+  }
+  function socialRow(label, val){
     if (!val) return '';
     var isUrl = /^https?:\/\//i.test(val);
     var display = isUrl ? val.replace(/^https?:\/\/(www\.)?/i, '').replace(/\/$/, '') : val;
