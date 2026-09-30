@@ -2,21 +2,29 @@
   {
     "id": "n1",
     "date": "31.08.2026",
+    "tag": "REGIÓ 7",
+    "title": "L'Ajuntament de Berga ha intentat negociar la decisió del tancament del centre de refugiats.",
+    "text": "La regidora de Drets socials, Andrea Corominas, destaca l'exemple d'integració i convivència que ha esdevingut l'equipament i que ha apel·lat en la seva mediació per trobar altres solucions, que no semblen prosperar.",
+    "link": "https://www.regio7.cat/bergueda/2026/09/30/lajuntament-berga-intentat-negociar-decisio-134835487.html?utm_campaign=mrf-facebook-regio7bergueda&utm_source=facebook&utm_medium=social&mrfcid=202609306aba1e83ab376b7b4a8c25b9&fbclid=IwdGRzaAUp5XJleHRuA2FlbQIxMQBwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHrNtvnCkR30TYxUsDAo_WL6B6gaJSjap5Q6n4ynU4fyONurqEzkTOcu_CmBs_aem_nK4fvm0GvEJKsG2IOEqwPA&sfnsn=scwspwa"
+  },
+  {
+    "id": "n2",
+    "date": "31.08.2026",
+    "tag": "AQUÍ BERGUEDÀ",
+    "title": "Els treballadors del centre d’acollida de refugiats de Berga fan vaga contra el tancament: «Ens ha tocat i no sabem per què»",
+    "text": "El personal ha fet vaga aquest dimecres —amb un seguiment del 90%, segons la CGT— i només s'han garantit els serveis mínims.",
+    "link": "https://naciodigital.cat/Solsona/opinio/el-cpi-de-berga.html"
+  },
+  {
+    "id": "n3",
+    "date": "31.08.2026",
     "tag": "OPINIÓ",
     "title": "Un article demana revertir el tancament del CPI",
     "text": "L'exdiputat Joan Roma i Cunill qualifica la feina feta al centre d\"espectacular, en qualitat i en quantitat\" i reclama a Creu Roja que reconsideri la decisió de tancar-lo.",
     "link": "https://naciodigital.cat/Solsona/opinio/el-cpi-de-berga.html"
   },
   {
-    "id": "n2",
-    "date": "12.2016",
-    "tag": "CONTEXT",
-    "title": "El CPI de Berga obre les portes",
-    "text": "Creu Roja comença a acollir persones refugiades a l'Alberg Joan Amades de Berga, l'inici d'una dècada d'acollida a la comarca.",
-    "link": "https://www.bergueda.cat/noticies/2016-12/creu-roja-acull-davui-berga-46-refugiats-procedents-camps-grecia"
-  },
-  {
-    "id": "n3",
+    "id": "n4",
     "date": "09.2026",
     "tag": "REGIÓ 7",
     "title": "Estarem al costat dels treballadors.",
@@ -24,7 +32,7 @@
     "link": "https://www.regio7.cat/bergueda/2026/09/03/lalcalde-berga-possible-perdua-centre-133912431.html"
   },
   {
-  "id": "n4",
+  "id": "n5",
   "date": "08.2026",
   "tag": "AQUÍ BERRGUEDÀ",
   "title": "El centre d’acollida de refugiats de Berga tancarà el desembre. ",
@@ -32,7 +40,7 @@
   "link": "https://www.aquibergueda.cat/2026/08/31/el-centre-dacollida-de-refugiats-de-berga-tancara-el-desembre/"
   },
   {
-    "id": "n5",
+    "id": "n6",
     "date": "08.2026",
     "tag": "REGIÓ 7",
     "title": "La CGT anuncia el tancament del CPI de Berga. ",
@@ -40,11 +48,19 @@
     "link": "https://www.regio7.cat/bergueda/2026/08/28/cgt-anuncia-tancament-centre-per-133746624.html"
   },
   {
-    "id": "n6",
+    "id": "n7",
     "date": "08.2026",
     "tag": "REGIÓ 7",
     "title": "El futur a l'Alberg de Berga: L'entrada de migrants es dificulta, el centre per a refugiats pateix. ",
     "text": "La regularització de migrants, l’agilització dels tràmits i el canvi normatiu, són una amenaça per a les places de Berga.",
     "link": "https://www.regio7.cat/bergueda/2026/08/29/futur-lalberg-berga-lentrada-migrants-133766880.html"
+  },
+  {
+    "id": "n8",
+    "date": "12.2016",
+    "tag": "CONTEXT",
+    "title": "El CPI de Berga obre les portes",
+    "text": "Creu Roja comença a acollir persones refugiades a l'Alberg Joan Amades de Berga, l'inici d'una dècada d'acollida a la comarca.",
+    "link": "https://www.bergueda.cat/noticies/2016-12/creu-roja-acull-davui-berga-46-refugiats-procedents-camps-grecia"
   }
 ]
