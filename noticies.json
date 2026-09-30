@@ -2,13 +2,21 @@
   {
     "id": "n1",
     "date": "30.09.2026",
+    "tag": "EL MATÍ DE CATALUNYA RÀDIO",
+    "title": "La bústia: Ens oposem al tancament del servei d'atenció a refugiats de Berga.",
+    "text": "El matí de Catalunya Ràdio obrim la bústia de queixes i denúncies. Avui hem rebut el missatge de l'Andreu Vilardell, treballador del Centre de Refugiats de Berga, ubicat a l'alberg del municipi.",
+    "link": "https://www.3cat.cat/3cat/la-bustia-ens-oposem-al-tancament-del-servei-datencio-a-refugiats-de-berga/audio/1292471/"
+  },
+  {
+    "id": "n2",
+    "date": "30.09.2026",
     "tag": "REGIÓ 7",
     "title": "Manifestació dels treballadors del centre de refugiats de Berga per defensar la continuïtat de l'equipament.",
     "text": "Avui vaga per mostrar la seva contra a la decisió de Creu Roja, responsable de l'equipament, de tancar-lo a final d'any. ",
     "link": "https://www.regio7.cat/videos/comarques/bergueda/2026/09/30/manifestacio-dels-treballadors-centre-refugiats-134833282.html"
   },
   {
-    "id": "n2",
+    "id": "n3",
     "date": "30.09.2026",
     "tag": "REGIÓ 7",
     "title": "L'Ajuntament de Berga ha intentat negociar la decisió del tancament del centre de refugiats.",
@@ -16,7 +24,7 @@
     "link": "https://www.regio7.cat/bergueda/2026/09/30/lajuntament-berga-intentat-negociar-decisio-134835487.html?utm_campaign=mrf-facebook-regio7bergueda&utm_source=facebook&utm_medium=social&mrfcid=202609306aba1e83ab376b7b4a8c25b9&fbclid=IwdGRzaAUp5XJleHRuA2FlbQIxMQBwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHrNtvnCkR30TYxUsDAo_WL6B6gaJSjap5Q6n4ynU4fyONurqEzkTOcu_CmBs_aem_nK4fvm0GvEJKsG2IOEqwPA&sfnsn=scwspwa"
   },
   {
-    "id": "n3",
+    "id": "n4",
     "date": "30.09.2026",
     "tag": "AQUÍ BERGUEDÀ",
     "title": "Els treballadors del centre d’acollida de refugiats de Berga fan vaga contra el tancament: «Ens ha tocat i no sabem per què»",
@@ -24,7 +32,7 @@
     "link": "https://www.aquibergueda.cat/2026/09/30/els-treballadors-del-centre-dacollida-de-refugiats-de-berga-fan-vaga-contra-el-tancament-ens-ha-tocat-i-no-sabem-per-que/"
   },
   {
-    "id": "n4",
+    "id": "n5",
     "date": "03.09.2026",
     "tag": "REGIÓ 7",
     "title": "Estarem al costat dels treballadors.",
@@ -32,7 +40,7 @@
     "link": "https://www.regio7.cat/bergueda/2026/09/03/lalcalde-berga-possible-perdua-centre-133912431.html"
   },
   {
-    "id": "n5",
+    "id": "n6",
     "date": "31.08.2026",
     "tag": "OPINIÓ",
     "title": "Un article demana revertir el tancament del CPI",
@@ -40,7 +48,7 @@
     "link": "https://naciodigital.cat/Solsona/opinio/el-cpi-de-berga.html"
   },
   {
-  "id": "n6",
+  "id": "n7",
   "date": "08.2026",
   "tag": "AQUÍ BERRGUEDÀ",
   "title": "El centre d’acollida de refugiats de Berga tancarà el desembre. ",
@@ -48,7 +56,7 @@
   "link": "https://www.aquibergueda.cat/2026/08/31/el-centre-dacollida-de-refugiats-de-berga-tancara-el-desembre/"
   },
   {
-    "id": "n7",
+    "id": "n8",
     "date": "08.2026",
     "tag": "REGIÓ 7",
     "title": "La CGT anuncia el tancament del CPI de Berga. ",
@@ -56,7 +64,7 @@
     "link": "https://www.regio7.cat/bergueda/2026/08/28/cgt-anuncia-tancament-centre-per-133746624.html"
   },
   {
-    "id": "n8",
+    "id": "n9",
     "date": "08.2026",
     "tag": "REGIÓ 7",
     "title": "El futur a l'Alberg de Berga: L'entrada de migrants es dificulta, el centre per a refugiats pateix. ",
@@ -64,7 +72,7 @@
     "link": "https://www.regio7.cat/bergueda/2026/08/29/futur-lalberg-berga-lentrada-migrants-133766880.html"
   },
   {
-    "id": "n9",
+    "id": "n10",
     "date": "12.2016",
     "tag": "CONTEXT",
     "title": "El CPI de Berga obre les portes",
